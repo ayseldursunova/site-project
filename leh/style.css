@@ -18,6 +18,9 @@ margin-right: 50px;
     cursor: pointer;
     
 }
+nav a:hover {
+border-bottom: 1px solid rgb(27, 87, 136)
+}
 .logo{
     display: flex;
     color: rgb(4, 69, 143);
