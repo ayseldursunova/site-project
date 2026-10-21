@@ -165,7 +165,7 @@ border-bottom: 1px solid rgb(27, 87, 136)
 }
 
 .card-3{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("реанимация.jpg");
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("reanimatsia.webp");
     height: 300px; width: 400px;
     background-size: cover;
     display: flex;
